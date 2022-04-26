@@ -16,6 +16,6 @@ In this PoC, below three things in Redshift is demonstrated
 
 ## Steps
 1. Run Redshift performance test in `test/TPC-DS-performance test.sql`
-2. Run optimization feature in `test/Redshift-optimization-feature.sql'
+2. Run optimization feature in `test/Redshift-optimization-feature.sql`
 3. Run column-level permission control test in `Redshift-column-level-permission-control.sql`
 
